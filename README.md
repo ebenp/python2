@@ -1,1 +1,1 @@
-# python2
+Collection of Python 2 short scripts. Built using Python 2.7.13.
